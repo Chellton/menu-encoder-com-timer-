@@ -5,7 +5,7 @@
 #define potPin  A0 // potenciometro
 
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
-
+//teste
 
 RotaryEncoder encoder(A2, A3); // encoder
 
